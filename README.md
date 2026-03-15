@@ -43,8 +43,8 @@ OverlayBatch watches a folder for new images, resizes them to a fixed output siz
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/webjocke/OverlayImageJoiner.git
-   cd OverlayImageJoiner
+   git clone https://github.com/webjocke/OverlayBatch.git
+   cd OverlayBatch
    ```
 2. Install the dependency
    ```bash
@@ -83,8 +83,6 @@ python3 overlaybatch.py \
   --height 1200 \
   --keep-originals
 ```
-
-You can use the sample files in `example_images/` by copying them into `input/`.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
