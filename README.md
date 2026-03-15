@@ -6,6 +6,9 @@
 
 <br />
 <div align="center">
+
+![OverlayBatch demo](overlaybatch-demo.gif)
+
   <h3 align="center">OverlayBatch</h3>
 
   <p align="center">
@@ -14,8 +17,6 @@
 </div>
 
 ## About The Project
-
-![OverlayBatch demo](overlaybatch-demo.gif)
 
 OverlayBatch watches a folder for new images, resizes them to a fixed output size, applies a transparent PNG overlay, and saves the result as final PNG files.
 
