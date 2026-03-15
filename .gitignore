@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+output
+input
+example_images
+
 # C extensions
 *.so
 
@@ -102,3 +106,9 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# Project runtime folders
+done/*
+!done/.gitkeep
+todo/*
+!todo/.gitkeep
